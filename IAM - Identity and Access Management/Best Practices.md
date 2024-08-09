@@ -1,0 +1,8 @@
+- Don't use root acc except for AWS acc setup;
+- One physical user =  One AWS user;
+- Assign users to [[Groups]] and assign [[Permissions]] to groups;
+- Create a password policy;
+- Use and enforce [[Multi Factor Authentication]];
+- Create and use Access Keys for CLI/SDK access;
+- Audit perms using [[IAM Security Tools]];
+- NEVER share IAM users && Access Keys; 

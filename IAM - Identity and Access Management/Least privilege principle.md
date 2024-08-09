@@ -1,0 +1,1 @@
+Don't give more perms than what is needed.
