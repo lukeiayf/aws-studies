@@ -1,4 +1,4 @@
-• 22 = SSH (Secure Shell) - log into a Linux instance
+• 22 = [[SSH (Secure Shell) ]]- log into a Linux instance
 • 21 = FTP (File Transfer Protocol) – upload files into a file share
 • 22 = SFTP (Secure File Transfer Protocol) – upload files using SSH
 • 80 = HTTP – access unsecured websites

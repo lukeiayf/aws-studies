@@ -1,0 +1,1 @@
+Never directly configure credentials in an EC2 instance, instead add IAM [[Roles]] for it in the dashboard.

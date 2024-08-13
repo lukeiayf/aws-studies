@@ -1,0 +1,1 @@
+Integrated into the EC2 dashboard, by selecting you instance and clicking the ''connect'' button a browser based terminal is launched on your instance. This method handles you a temporary ssh key so you don't really need to worry about generating one like in the local terminal method.
