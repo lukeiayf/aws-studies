@@ -1,0 +1,1 @@
+Can be either Server-side(default) when the user uploads a file into the bucket and AWS handles the encryption or Client-side when the user encrypts the file before uploading into AWS
