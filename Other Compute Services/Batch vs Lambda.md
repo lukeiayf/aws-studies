@@ -1,4 +1,4 @@
-**• Lambda:**
+**Lambda:**
 
 • Time limit
 • Limited runtimes
