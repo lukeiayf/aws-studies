@@ -1,0 +1,1 @@
+- AWS is responsible for protecting hardware. AWS is responsible for "Security OF the Cloud". AWS is also responsible for the infrastructure that runs all services in the AWS Cloud, etc.
