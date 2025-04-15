@@ -1,0 +1,8 @@
+- File Storage
+	- Tree like structure, the most common in OS organization
+- Block Storage
+	- Split files into fixed-sized chunks of data called blocks, each with its own address
+	- Optimized for low-latency operations, high performance (transactions, containers, VMs)
+- Object Storage
+	- Treats each file as an object, a distinct single unit of data 
+	- General data storage or large &/or unstructured data sets(archives, backups, multimedia)

@@ -1,8 +1,11 @@
-• An EBS (Elastic Block Store) Volume is a network drive you can attach
+• An EBS (Elastic Block Storage) Volume is a network drive you can attach
 to your [[EC2 instance]] while they run
 • It allows your instances to persist data, even after their termination
-• They can only be mounted to one instance at a time (at the Certified Cloud Practitioner - CCP level)
-• They are bound to a specific availability zone
+
+**• They can only be mounted to one instance at a time (at the Certified Cloud Practitioner - CCP level)**
+ - *Amazon announced the EBS multi-attach feature that permits IOPS SSDs to be attached to multiple instances at a time, but this feature is not available for all instance types and all instances must still be in the same AZ*
+
+ • They are bound to a specific availability zone
 • Analogy: Think of them as a “network USB stick”
 • It’s a network drive (i.e. not a physical drive)
 • It uses the network to communicate the instance, which means there might be a bit of
@@ -13,4 +16,5 @@ latency
 • To move a volume across, you first need to create an [[EBS Snapshot]] of it
 • Have a provisioned capacity (size in GBs, and IOPS)
 • You get billed for all the provisioned capacity
-• You can increase the capacity of the drive over time
+
+**• You can increase the capacity of the drive over time through volume size increase or attaching multiple volumes**

@@ -2,7 +2,7 @@
 • Buckets must have a globally unique name (across all regions all accounts)
 • Buckets are defined at the region level
 • S3 looks like a global service but buckets are created in a region
-• Naming convention
+• Naming convention must be DNS compliant
 • No uppercase, No underscore
 • 3-63 characters long
 • Not an IP
