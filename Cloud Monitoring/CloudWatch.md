@@ -1,3 +1,5 @@
+**TDLR: CloudWatch is used to monitor metric in your cloud apps, like checking the cpu usage of an EC2 instance and sending a warning if it exceeds a value for some time.**
+
 • CloudWatch provides metrics for every services in AWS
 • Metric is a variable to monitor (CPUUtilization, NetworkIn…)
 • Metrics have timestamps
