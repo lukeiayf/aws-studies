@@ -1,4 +1,4 @@
-**• Amazon S3 Standard - General Purpose**
+Vide **• Amazon S3 Standard - General Purpose**
 	• 99.99% Availability
 	• Used for frequently accessed data
 	• Low latency and high throughput

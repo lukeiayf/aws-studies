@@ -22,3 +22,11 @@
 		• Uses Machine Learning to predict future traffic ahead of time
 		• Automatically provisions the right number of EC2 instances in advance
 		• Useful when your load has predictable time-based patterns
+
+**Templates**
+
+- All ASG instances are launched using what is called a Launch Template, it needs the same configurations as a normal EC2 instance, you can:
+-  Use an existing EC2 instance as the template
+-  Create one from an already existing template
+-  Create a template from scratch
+

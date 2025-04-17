@@ -5,9 +5,13 @@
 • It costs less to setup your own load balancer but it will be a lot more
 effort on your end (maintenance, integrations)
 
+- ELBs can also work in HYbrid mode on on premises if needed
+
+	- ELBs are not considered a single point of failure.
+
  **Kinds of load balancers offered by AWS:**
 
-• Application Load Balancer (HTTP / HTTPS only) – Layer 7
+• [[ALB - Application load balancer]] (HTTP / HTTPS only) – Layer 7
 • Network Load Balancer (ultra-high performance, allows for TCP) – Layer 4
 • Gateway Load Balancer – Layer 3
 • Classic Load Balancer (retired in 2023) – Layer 4 & 7
