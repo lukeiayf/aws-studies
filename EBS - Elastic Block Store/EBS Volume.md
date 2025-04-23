@@ -17,4 +17,6 @@ latency
 • Have a provisioned capacity (size in GBs, and IOPS)
 • You get billed for all the provisioned capacity
 
+Here are some [[EBS Use Cases]]
+
 **• You can increase the capacity of the drive over time through volume size increase or attaching multiple volumes**

@@ -17,7 +17,8 @@ d) Enable server-side encryption on the S3 bucket and use an IAM role attached t
 
 Which AWS service can be used to improve the performance of a read-heavy application by caching frequently accessed data?
 
-**Options:** a) Amazon RDS  
+**Options:** 
+a) Amazon RDS  
 b) Amazon DynamoDB Accelerator (DAX)  
 c) Amazon ElastiCache  
 d) Amazon CloudFront
@@ -58,7 +59,8 @@ AWS Trusted Advisor can provide recommendations for cost optimization, security,
 
 Which of the following are valid ways to reduce costs in AWS? (Select TWO)
 
-**Options:** a) Use Spot Instances for non-critical workloads.  
+**Options:** 
+a) Use Spot Instances for non-critical workloads.  
 b) Use Multi-AZ deployments for all resources.  
 c) Use S3 Intelligent-Tiering for infrequently accessed data.  
 d) Use On-Demand Instances for predictable workloads.  
@@ -75,7 +77,8 @@ e) Use Amazon CloudFront for all data transfers.
 
 A company is hosting a global application that serves users from multiple continents. The application uses an Amazon S3 bucket to store static content. Users are reporting high latency when accessing the content. What should the company do to reduce latency?
 
-**Options:** a) Enable S3 Transfer Acceleration.  
+**Options:** 
+a) Enable S3 Transfer Acceleration.  
 b) Use Amazon CloudFront to cache the content at edge locations.  
 c) Enable Cross-Region Replication for the S3 bucket.  
 d) Use AWS Global Accelerator to route traffic to the S3 bucket.
@@ -100,7 +103,8 @@ Amazon ________ is a fully managed NoSQL database service that provides single-d
 
 A company wants to monitor its AWS environment for unauthorized changes to its resources. Which AWS service should they use?
 
-**Options:** a) Amazon CloudWatch  
+**Options:** 
+a) Amazon CloudWatch  
 b) AWS Config  
 c) AWS CloudTrail  
 d) Amazon GuardDuty
@@ -115,7 +119,8 @@ d) Amazon GuardDuty
 
 Which AWS service is best suited for running containerized applications without managing the underlying infrastructure?
 
-**Options:** a) Amazon ECS  
+**Options:** 
+a) Amazon ECS  
 b) Amazon EKS  
 c) AWS Fargate  
 d) AWS Lambda
@@ -130,7 +135,8 @@ d) AWS Lambda
 
 A company is running a high-performance computing (HPC) workload that requires a shared file system with low latency. Which AWS service should they use?
 
-**Options:** a) Amazon S3  
+**Options:** 
+a) Amazon S3  
 b) Amazon EFS  
 c) Amazon FSx for Lustre  
 d) Amazon RDS

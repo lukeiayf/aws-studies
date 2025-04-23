@@ -1,0 +1,8 @@
+- **Boot Volumes:** Persistent storage for EC2 operating systems and applications.
+- **Databases:** Reliable, high-performance storage for relational (MySQL, PostgreSQL, Oracle) and NoSQL databases.
+- **Enterprise Apps:** Storage for business applications like SAP and SharePoint.
+- **Dev/Test:** Persistent storage for development, testing, and code repositories.
+- **Big Data/Analytics:** Storage for data processing, logs, and analytics workloads.
+- **CMS/Media:** Storage for website files and media assets.
+- **Backup/Disaster Recovery:** Snapshots for backup, restore, and cross-region replication.
+- **Security/Compliance:** Supports encryption and fine-grained access control.
