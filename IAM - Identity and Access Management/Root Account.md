@@ -1,1 +1,1 @@
-Created by default, shouldn't be used or shared
+Created by default, shouldn't be used or shared, when first using the aws dashboard you should create an [[Users]] with admin [[Policies]] and use that instead to manage aws.

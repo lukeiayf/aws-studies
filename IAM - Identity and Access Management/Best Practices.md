@@ -6,3 +6,5 @@
 - Create and use Access Keys for CLI/SDK access;
 - Audit perms using [[IAM Security Tools]];
 - NEVER share IAM users && Access Keys; 
+
+-  USE [[Least privilege principle]]

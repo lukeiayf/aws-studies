@@ -14,3 +14,4 @@
     
 - **Comparison to EBS:**  
     Unlike **Amazon EBS** (see [[EBS Volume]]), which is network-attached and persists independently of the instance lifecycle, instance store volumes are tied to the life of the instance.
+
