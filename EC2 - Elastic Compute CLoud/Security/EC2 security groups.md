@@ -10,3 +10,5 @@ Security groups for EC2 instances have inbound and outbound rules for data acces
 - All inbound traffic is blocked by default;
 - All outbound traffic is authorized by default;
 - You can reference another security group to the one already attached to the instance through [[Security group referencing]];
+
+NOTE: If the application is hanging endlessly it means it is a problem with security groups

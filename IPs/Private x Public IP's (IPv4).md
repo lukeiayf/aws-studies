@@ -1,0 +1,10 @@
+- Public IP
+	- Can be identified on the internet
+	- Must be unique across the whole web
+	- CAN be geolocated
+- Private IP
+	- Can only be identified on a private network
+	- Must be unique across the private network
+	- Two different private networks can have the same IP
+	- Machines connect to the internet using an internet gatewat (proxy)
+	- Only a specified range can be used as private IPs
