@@ -1,6 +1,8 @@
 • Make a backup (snapshot) of your [[EBS volume]] at a point in time
-• Not necessary to detach volume to do snapshot, but recommended
+• Not necessary to detach volume from an [[EC2]] instance to do snapshot, but recommended
 • Can copy snapshots across AZ or Region
+
+- You can create a new EBS volume through a snapshot, and using that you can copy them between different AZs
 
 **EBS Snapshot Archive**
 • Move a Snapshot to an ”archive tier” that is 75% cheaper

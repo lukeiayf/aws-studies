@@ -1,3 +1,4 @@
+- **USE FOR HIGH PERFORMANCE HARDWARE DISK**
 
 - **Definition:**  
 	An instance store provides ephemeral block-level storage(see [[Storage Types]]) for the [[EC2 instance]]. 
