@@ -1,0 +1,3 @@
+- TCP is a connection-oriented protocol that ensures reliable data transmission between devices on a network. 
+- It establishes a connection through a handshake process, segments data into packets, numbers those packets to track the order, and requires an acknowledgment (ACK) from the receiver to confirm that each packet was successfully received. 
+- If a packet fails to arrive or arrives out of order, TCP can retransmit and reorder it, which makes this protocol ideal for scenarios that require guaranteed delivery such as web browsing, file transfer, and emails.

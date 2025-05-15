@@ -1,0 +1,4 @@
+- UDP is a connectionless protocol that favors speed over reliability. 
+- it sends data as individual packets called datagrams, without requiring a handshake or acknowledgment.
+- Because UDP does not provide mechanisms for correcting errors or reordering packets, it relies on the application layer to handle these tasks if needed. T
+- his makes UDP useful in situations where lower latency matters more than guaranteed delivery, such as online gaming, video streaming, or voice calls.

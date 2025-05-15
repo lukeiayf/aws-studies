@@ -1,0 +1,2 @@
+- HTTP (Hypertext Transfer Protocol) is an application-layer protocol used for communication between clients (usually web browsers) and servers. 
+- It relies on [[TCP - Transmission Control Protocol]] underneath to reliably transfer web data in a request-response cycle: the client requests resources (like HTML pages, images, or scripts), and the server responds with the requested data.
